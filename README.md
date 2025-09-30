@@ -1,1 +1,1 @@
-readme
+[![Smoke](https://github.com/mortsha/bdd-cucumber-github-actions/actions/workflows/smoke_maven.yml/badge.svg)](https://github.com/mortsha/bdd-cucumber-github-actions/actions/workflows/smoke_maven.yml)
